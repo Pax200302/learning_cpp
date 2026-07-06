@@ -25,7 +25,7 @@ public:
     }
     void dudu()
     {
-        cout << "子类成员函数\n";
+        cout << "子类成员函数么\n";
     }
 };
 void test()
